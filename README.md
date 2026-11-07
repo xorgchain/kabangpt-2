@@ -1,6 +1,6 @@
 # **Welcome to KabanGPT-2!**
 
-This is a Reborn-version of legacy KabanGPT. It has plenty of new things that highlights it from the first version
+This is a Reborn-version of legacy KabanGPT. It has plenty of new things that highlights it from the first version (RELEASE SOON)
 
 ## **What it can do**
 - Chat with lots of models through API function
@@ -34,4 +34,5 @@ page by choosing a provider and pasting API key. **Keys and providers are stored
 
 ## **More information**
 Contacts: xorgchain (Discord)
-KabanGPT-2 Enginers: [Boben](https://github.com/xorgchain), [Sergun](https://github.com/oreeeshkin)
+
+KabanGPT-2 Enginers: [homie](https://github.com/xorgchain), [Sergun](https://github.com/oreeeshkin)
